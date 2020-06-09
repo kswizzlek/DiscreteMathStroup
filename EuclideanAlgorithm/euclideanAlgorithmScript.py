@@ -1,3 +1,7 @@
+#this is how we import from other files in python
+#if you look in the file explorer you will see a gcd folder and gcd.py file
+#I am adding that file here with the next line of code and using the function inside that
+#file on line 18. more on imports in python can be found here - https://realpython.com/absolute-vs-relative-python-imports/
 from gcd.gcd import *
 
 def welcome_message():
